@@ -1,0 +1,15 @@
+C:\GeekBreins\FinalWork\finalWork\obj\Debug\net6.0\finalWork.csproj.AssemblyReference.cache
+C:\GeekBreins\FinalWork\finalWork\obj\Debug\net6.0\finalWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBreins\FinalWork\finalWork\obj\Debug\net6.0\finalWork.AssemblyInfoInputs.cache
+C:\GeekBreins\FinalWork\finalWork\obj\Debug\net6.0\finalWork.AssemblyInfo.cs
+C:\GeekBreins\FinalWork\finalWork\obj\Debug\net6.0\finalWork.csproj.CoreCompileInputs.cache
+C:\GeekBreins\FinalWork\finalWork\bin\Debug\net6.0\finalWork.exe
+C:\GeekBreins\FinalWork\finalWork\bin\Debug\net6.0\finalWork.deps.json
+C:\GeekBreins\FinalWork\finalWork\bin\Debug\net6.0\finalWork.runtimeconfig.json
+C:\GeekBreins\FinalWork\finalWork\bin\Debug\net6.0\finalWork.dll
+C:\GeekBreins\FinalWork\finalWork\bin\Debug\net6.0\finalWork.pdb
+C:\GeekBreins\FinalWork\finalWork\obj\Debug\net6.0\finalWork.dll
+C:\GeekBreins\FinalWork\finalWork\obj\Debug\net6.0\refint\finalWork.dll
+C:\GeekBreins\FinalWork\finalWork\obj\Debug\net6.0\finalWork.pdb
+C:\GeekBreins\FinalWork\finalWork\obj\Debug\net6.0\finalWork.genruntimeconfig.cache
+C:\GeekBreins\FinalWork\finalWork\obj\Debug\net6.0\ref\finalWork.dll
